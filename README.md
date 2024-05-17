@@ -15,7 +15,6 @@ PATRONES ARQUITECTONICOS MAS CONOCIDOS
 9. ARQUITECTURA LIMPIA 
 10. ARQUITECTURA EXAGONAL
 
-> LA  *arquitectura limpia*
 # LA  *arquitectura limpia*
 
 >[!NOTE]
